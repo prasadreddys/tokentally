@@ -1,0 +1,5 @@
+{"date": "2026-11-02", "tool": "claude", "model": "claude-sonnet-4", "input_tokens": 1000, "output_tokens": 500, "cost_usd": "0.03"}
+{"date": "2026-11-03", "tool": "claude", "model": "claude-sonnet-4", "input_tokens": 2000, "output_tokens": 1000, "cost_usd": "0.06"}
+{"date": "2026-11-03", "tool": "cursor", "model": "gpt-5", "input_tokens": 500, "output_tokens": 250, "cost_usd": "0.02"}
+{"date": "2026-11-05", "tool": "openai", "model": "gpt-4o", "input_tokens": 3000, "output_tokens": 1500, "cost_usd": "0.10"}
+{"date": "2026-11-05", "tool": "gemini", "model": "gemini-2.5-flash", "input_tokens": 4000, "output_tokens": 2000, "cost_usd": ""}

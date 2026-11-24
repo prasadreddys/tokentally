@@ -1,0 +1,6 @@
+date,tool,model,input_tokens,output_tokens,cost_usd
+2026-11-02,claude,claude-sonnet-4,1000,500,0.03
+2026-11-03,claude,claude-sonnet-4,2000,1000,0.06
+2026-11-03,cursor,gpt-5,500,250,0.02
+2026-11-05,openai,gpt-4o,3000,1500,0.10
+2026-11-05,gemini,gemini-2.5-flash,4000,2000,

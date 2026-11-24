@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+tokentally-store/
+*.muse-github-snapshot-sync.json
